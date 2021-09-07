@@ -1,0 +1,418 @@
+{
+    "sports_wear": [
+        {
+            "id": 1,
+            "category": "sports",
+            "name": "green_sports",
+            "description": "green sports shoes for exercise",
+            "price": 599,
+            "rating": 4,
+            "images": "https://www.freepik.com/premium-photo/colorful-sport-shoes-green_6942644.htm#page=1&query=Sports%20wear&position=7"
+            
+        },
+        {
+            "id": 2,
+            "category": "sports",
+            "name": "red_sneakers",
+            "description": "red sneakers for kids",
+            "price": 699,
+            "rating": 4,
+            "images": "https: //www.freepik.com/premium-photo/closeup-sports-children-sneakers-red-background_15812005.htm?query=Sports%20wear"
+            
+        },
+        {
+            "id": 3,
+            "category": "sports",
+            "name": "baby_pink",
+            "description": "ladies exercise wear",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/woman-baby-pink-workout-leggings-mockup_15558459.htm?query=Sports%20wear"
+            
+        },
+        {
+            "id": 4,
+            "category": "sports",
+            "name": "baby_pink",
+            "description": "ladies exercise wear",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/blonde-woman-sports-bra-mockup_12195438.htm?query=Sports%20wear"
+        },
+        {
+            "id": 5,
+            "category": "sports",
+            "name": "full sweatpants",
+            "description": "model-with-long-wavy-hair-wearing-stylish-sweatshirt-joggers-with-black-leather-shoes",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/stock-photo-fashion-young-model-with-long-wavy-hair-wearing-stylish-sweatshirt-joggers-with-black-leather-shoes-standing-modern-street-with-contemporary-buildings_16869911.htm#page=1&query=Sports%20wear&position=31"
+        },
+        {
+            "id": 6,
+            "category": "sports",
+            "name": "pink sports",
+            "description": "running sports shoes for ladies",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/sport-running-shoes_1037928.htm#page=1&query=Sports%20wear&position=40"
+        },
+        {
+            "id": 7,
+            "category": "sports",
+            "name": "fitinnes clothes for ladies",
+            "description": "fitinnes for ladies and kids",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/woman-does-pilates-fitness-mat-has-perfect-slim-figure-leans-backwards-wears-headband-activewear-exercises-with-dumbbells-isolated-yellow_17701335.htm#page=1&query=Sports%20wear&position=8"
+        },
+        {
+            "id": 8,
+            "category": "sports",
+            "name": "white sneakers",
+            "description": "white sneakers sports shoes for ladies",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/premium-photo/white-stylish-fitness-shoes-isolated-white-background_17810046.htm#page=1&query=Sports%20wear&position=42"
+        },
+        {
+            "id": 9,
+            "category": "sports",
+            "name": "men sports wear",
+            "description": "men sports wear tshirts and sweat pants",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/free-photo/strong-guy-with-muscular-body-workout-near-fence-morning-stadium-he-wears-sport-clothes-listening-music-with-headphones_10056103.htm#page=1&query=Sports%20wear&position=49"
+        },
+        {
+            "id": 10,
+            "category": "sports",
+            "name": "fashion sports shoes",
+            "description": "stylish men sports shoes",
+            "price": 499,
+            "rating": 4,
+            "images": "https://www.freepik.com/premium-photo/female-hand-tying-laces-multicolored-sneakers-closeup_14916828.htm#page=1&query=Sports%20wear&position=27"
+        }
+    ],
+    "men_wear": [
+        {
+            "id": 1,
+            "category": "men_wear",
+            "description": "casual men jeans blue",
+            "price": 1099,
+            "rating": 4,
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2zU0e36sWwuo6QKRXh3-yLZBWb96oUWeDQ&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "category": "men_wear",
+            "description": "men combination for both official and casual occations",
+            "price": 999,
+            "rating": 4,
+            "images": "https://cdn.luxe.digital/media/2019/09/12085003/casual-dress-code-men-style-summer-luxe-digital.jpg"
+        },
+        {
+            "id": 3,
+            "category": "men_wer",
+            "description": "classic men wear",
+            "price": 1299,
+            "rating": 4,
+            "images": "https://i.pinimg.com/736x/c6/32/fd/c632fd9a2e206f7d74f72c7024570fbf.jpg"
+        },
+        {
+            "id": 4,
+            "category": "men_wear",
+            "description": "blue jeans trouser and shirt",
+            "price": 1699,
+            "rating": 4,
+            "images": "https: //st.depositphotos.com/1007995/1274/i/600/depositphotos_12746726-stock-photo-fashion-man-wearing-sunglasses-thinking.jpg"
+        },
+        {
+            "id": 5,
+            "category": "men_wear",
+            "description": "stylish formal wear for men",
+            "price": 1599,
+            "rating": 4,
+            "images": "https: //www.valextino.com/wp-content/uploads/2019/06/Color-Combination-For-Men-Navy-Blue-and-White.jpg"
+        },
+        {
+            "id": 6,
+            "category": "men_wear",
+            "description": "men suits for wedding",
+            "price": 1399,
+            "rating": 4,
+            "images": "https: //www.dhresource.com/600x600/f2/albu/g8/M01/8A/F1/rBVaVF3LKIKAe--GAAQqNiKoU3Y427.jpg"
+        },
+        {
+            "id": 7,
+            "category": "men_wear",
+            "description": "smart casual dress code for men",
+            "price": 1299,
+            "rating": 4,
+            "images": "https://cdn.luxe.digital/media/2019/09/12085344/smart-casual-dress-code-men-summer-style-luxe-digital.jpg"
+        },
+        {
+            "id": 8,
+            "category": "men_wear",
+            "description": "Blazer outifs for men",
+            "price": 1099,
+            "rating": 4,
+            "images": "https://i.pinimg.com/474x/9b/ba/33/9bba338032549d6f3975e74a1aecf4d1--fashion-looks-fashion-men.jpg"
+        },
+        {
+            "id": 9,
+            "category": "men_wear",
+            "description": "Blazer outfit for man",
+            "price": 1399,
+            "rating": 4,
+            "images": "https://images.unsplash.com/photo-1617137968427-85924c800a22?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhemVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        },
+        {
+            "id": 10,
+            "category": "men_wear",
+            "description": "Mens leather blazer",
+            "price": 1599,
+            "rating": 4,
+            "images": "https://cf.ltkcdn.net/mens-fashion/images/std/46015-283x424r1-Leather_Blazer.jpg"
+        }
+    ],
+    "kids_wear": [
+        {
+            "id": 1,
+            "category": "kids",
+            "description": "african wear for african boys",
+            "price": 2099,
+            "rating": 4,
+            "images": "https://i.etsystatic.com/17074222/r/il/77fc7c/1631437253/il_570xN.1631437253_21b9.jpg"
+        },
+        {
+            "id": 2,
+            "category": "kids",
+            "description": "african dresses for kids",
+            "price": 1999,
+            "rating": 4,
+            "images": "https://i.pinimg.com/736x/41/bc/d2/41bcd2c6b77db378a1062d980445f14b.jpg"
+        },
+        {
+            "id": 3,
+            "category": "kids",
+            "description": "kids kitenge",
+            "price": 699,
+            "rating": 4,
+            "images": "https://d17a17kld06uk8.cloudfront.net/products/HEM621K/AH57IPPV-default.jpg"
+        },
+        {
+            "id": 4,
+            "category": "kids",
+            "description": "latest stylish for africa kids",
+            "price": 999,
+            "rating": 4,
+            "images": "https://renystyles.com/wp-content/uploads/2021/04/Latest-Fashion-Styles-For-African-Kids-2021-renystyles.com-4.jpg"
+        },
+        {
+            "id": 5,
+            "category": "kids",
+            "description": "boys fashion ideas",
+            "price": 2499,
+            "rating": 4,
+            "images": "https://i.pinimg.com/originals/67/02/5d/67025db44865572705e17da940d89fa1.jpg"
+        },
+        {
+            "id": 6,
+            "category": "kids",
+            "description": "girls combinations",
+            "price": 999,
+            "rating": 4,
+            "images": "https://cdn.shopify.com/s/files/1/0684/2619/products/Isuni-kids-green-yellow-kente_1_600x.jpg"
+        },
+        {
+            "id": 7,
+            "category": "kids",
+            "description": "stylish for african girls",
+            "price": 899,
+            "rating": 4,
+            "images": "https://i2.wp.com/afrocosmopolitan.com/wp-content/uploads/2017/08/103-Ways-Kids-Are-Killing-It-With-Ankara-And-Asoebi-Styles-afrocosmopolitan-african-fashion-featured.jpg"
+        },
+        {
+            "id": 8,
+            "category": "kids",
+            "description": "africa fashion wear",
+            "price": 799,
+            "rating": 4,
+            "images": "https://i.pinimg.com/736x/f2/02/65/f202651f040f7d9faee2d407e61d3c1d.jpg"
+        },
+        {
+            "id": 9,
+            "category": "kids",
+            "description": "africa dresses for kids",
+            "price": 799,
+            "rating": 4,
+            "images": "https://i.pinimg.com/474x/c0/34/77/c034778f80cdb7d2793f4275e913b8e0.jpg"
+        },
+        {
+            "id": 10,
+            "category": "kids",
+            "description": "africa shirt for boys",
+            "price": 599,
+            "rating": 4,
+            "images": "https://i.pinimg.com/originals/c7/66/04/c766041a6a4a33d903e3b6e1366f7e15.jpg"
+        }
+    ],
+    "women_wear": [
+        {
+            "id": 1,
+            "category": "ladies",
+            "description": "women suits official wear",
+            "price": 1099,
+            "rating": 4,
+            "images": "https://pictures-kenya.jijistatic.com/9075476_fb-img-1589087196162-1_720x720.jpg"
+        },
+        {
+            "id": 2,
+            "category": "ladies",
+            "description": "casual wear",
+            "price": 899,
+            "rating": 4,
+            "images": "https://s7.landsend.com/is/image/LandsEnd/491108_FW19_HF_BLI?fmt=jpeg,rgb&qlt=60,1&op_sharpen=0&resMode=sharp2&op_usm=0.5,1,3,0&icc=sRGB%20IEC61966-2.1,relative&iccEmbed=1&hei=2061&wid=1374"
+        },
+        {
+            "id": 3,
+            "category": "ladies",
+            "description": "women dresses for official wear",
+            "price": 2999,
+            "rating": 4,
+            "images": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2020/9/16/25f5b6a7-ce25-4e66-8a61-3aa2037b6c741600207614629-1.jpg"
+        },
+        {
+            "id": 4,
+            "category": "ladies",
+            "description": "trench coats for ladies",
+            "price": 1299,
+            "rating": 4,
+            "images": "https://cdn.cliqueinc.com/posts/251286/successful-women-fashion-item-251286-1520300209789-main.700x0c.jpg"
+        },
+        {
+            "id": 5,
+            "category": "ladies",
+            "description": "beautiful dresses for casual and official wear",
+            "price": 899,
+            "rating": 4,
+            "images": "http://threadcurve.com/wp-content/uploads/2020/12/midi-dress-apr092021_1.jpg"
+        },
+        {
+            "id": 6,
+            "category": "ladies",
+            "description": "casusl work outfits",
+            "price": 1099,
+            "rating": 4,
+            "images": "https://i.pinimg.com/474x/ce/73/7f/ce737f27b09cb619d8c00bef16c01da0.jpg"
+        },
+        {
+            "id": 7,
+            "category": "ladies",
+            "description": "womens-fall-style",
+            "price": 2099,
+            "rating": 4,
+            "images": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/24d9e3c6-4399-4c9f-9a16-1a5298abb473/declkh2-b9853a8b-6e70-4493-9354-a7ee7bf1dc8d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0ZDllM2M2LTQzOTktNGM5Zi05YTE2LTFhNTI5OGFiYjQ3M1wvZGVjbGtoMi1iOTg1M2E4Yi02ZTcwLTQ0OTMtOTM1NC1hN2VlN2JmMWRjOGQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bnYpYPz4SKns8Yg43qYagGJZXE7Vu1JGC7-3x1vQeoY"
+        },
+        {
+            "id": 8,
+            "category": "ladies",
+            "description": "ladies wear at 35",
+            "price": 2199,
+            "rating": 4,
+            "images": "https://lh3.googleusercontent.com/proxy/j9b8X15pAMyM30qfYSlZi69C0gmKSOy8wkQ9CVhtI5q-CZZy_Q01osILDJOR_GTNGCdQwYKvawlXDw_UqfjYKHsjdeZadj5o0w07k8cB0b2z6s85NZuzg5Wy0u5t6AcT7VqFQlIQqBC_kpF4Eh0CLOSmeVaGHm9_3rvpbJbj"
+        },
+        {
+            "id": 9,
+            "category": "ladies",
+            "description": "casual and official wear",
+            "price": 2299,
+            "rating": 4,
+            "images": "https://lh3.googleusercontent.com/proxy/FXOWWsfPKj92jTH0Y6XByWlLPAk2KX79eJ3aFiJzIhkv0-mTOLCY7sG3INxT3lUT-or_4_Y7tCAilANETXm6EGUUql2xpYt1VA9LwFOLv5NOfuHGIis8wRPQ5wq-otuPg4AThlfw39xXKTy9ogtAKAcGIpwHTiZcy2OzJipp"
+        },
+        {
+            "id": 10,
+            "category": "ladies",
+            "description": "denim skirt white top",
+            "price": 2399,
+            "rating": 4,
+            "images": "https://i.pinimg.com/originals/8b/da/57/8bda57c76f984a6b0dade765134099ff.jpg"
+        }
+        
+    ],
+    "phones": [
+        {
+            "id": 1,
+            "name": "galax se10e",
+            "category": "phones",
+            "description": "Samsung Galaxy S10E review: short, not Galaxy s10 - s10 Plus - s10e how to Samsung Galaxy S10e review | TechRadar Samsung Galaxy S10e 128GB+6GB RAM SM ...",
+            "price": 22099,
+            "rating": 4,
+            "images": "https://cdn0.vox-cdn.com/hermano/verge/product/image/9020/akrales_190311_3263_0177_squ.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Realme C12",
+            "category": "phones",
+            "description": "Price in Kenya, Ksh 14,800, Display, 6.5 inch, Camera, 13 MP + 2 MP+ 2 MP, RAM, 3 GB, Storage, 32 GB, Chipset, Helio G35, O.S, Android ...",
+            "price": 18099,
+            "rating": 4,
+            "images": "https://phonesstorekenya.com/wp-content/uploads/2020/10/Realme-C12-A.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Realme 5pro",
+            "category": "phones",
+            "description": "Screen: 6.3 inches, 1080 x 2340 pixelsColors: Crystal Green, Crystal BlueMain camera: 48MP + 8MP + 2MP + 2MP quadFront camera: 16MPOperating system: ...",
+            "price": 20099,
+            "rating": 4,
+            "images": "https://www.priceinkenya.com/images/products/realme-5-pro-6gb64gb-4icrgpTesC.jpeg?h=350&con=10&sharp=5&q=80&dpr=1&s=f40c6f155c4439664e37feb5230e3942"
+        },
+        {
+            "id": 4,
+            "name": "Realme 6s",
+            "category": "phones",
+            "description": "iScreen: 6.5 inches, 1080 x 2400 pixelsColors: Eclipse Black, Lunar WhiteMain camera: 48MP + 8MP + 2MP + 2MP quadFront camera: 16MPOperating system: ...",
+            "price": 21099,
+            "rating": 4,
+            "images": "https://www.priceinkenya.com/images/products/realme-6s-4gb64gb-oidaWR9mDA.jpeg?h=350&con=10&sharp=5&q=80&dpr=1&s=962cc74f62fa31cd0b9978f6832c7e54"
+        },
+        {
+            "id": 7,
+            "name":"Galsxy A32 5G",
+            "category": "phones",
+            "description": "From two-day battery life to reliable cameras, this Android smartphone is the renaissance gadget in the world of cheap phones.",
+            "price": 20099,
+            "rating": 4,
+            "images": "https://media.wired.com/photos/60e899a03082cb0dcce32bc3/master/w_2560%2Cc_limit/Gear-Samsung-A32-5G.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Galxy M31",
+            "category": "phones",
+            "description": "6.4 inches Android 10.0 6GB 128GB storage Front: Single 32MP 6000mAh battery colors: Ocean Blue, Space black ",
+            "price": 24099,
+            "rating": 4,
+            "images": "https://gadgetsleo.com/wp-content/uploads/2020/03/Samsung-Galaxy-M31-Ocean-Blue.jpg.webp"
+        },
+        {
+            "id": 9,
+            "name": "Lenovo k12 note",
+            "category": "phones",
+            "description": "Lenovo k12 Note dual SIM Forest Green 4GB 128GB 4GB",
+            "price": 23599,
+            "rating": 4,
+            "images": "https://d2j6dbq0eux0bg.cloudfront.net/images/45335211/2384396584.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Redmi Note 10",
+            "category": "phones",
+            "description": "Redmi Note 10, 5GB, 6.5inch, 4GB RAM+128GB ROM, 6000mAh",
+            "price": 299,
+            "rating": 4,
+            "images": "https://static.jamboshop.com/0/img/product/PSRedmiNote104GBRAMplus128GB-5/1b.jpg"
+        }
+    ]
+}
